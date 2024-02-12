@@ -6,8 +6,6 @@ to run the plugIN:
 - go to project setting / plugINs / turn off / close
 - open project settings again / plugINs / turn ON / close
 
+https://youtu.be/a7VOtuFBGPw?si=98n5fGOT4-xD33Jv
 
-
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // [Video Link](https://youtu.be/a7VOtuFBGPw?si=Ry1Keo-Rer0u0L2s)https://youtu.be/a7VOtuFBGPw?si=Ry1Keo-Rer0u0L2s
-
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/a7VOtuFBGPw?si=98n5fGOT4-xD33Jv "Now in Android: 55")
