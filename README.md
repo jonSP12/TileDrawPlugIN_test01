@@ -8,4 +8,4 @@ to run the plugIN:
 
 https://youtu.be/a7VOtuFBGPw?si=98n5fGOT4-xD33Jv
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/a7VOtuFBGPw?si=98n5fGOT4-xD33Jv "Now in Android: 55")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/a7VOtuFBGPw?si=98n5fGOT4-xD33Jv)
